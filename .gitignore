@@ -1,4 +1,3 @@
-/vendor/
-/assets/keypair/*
 .idea
+/vendor/
 /src/RsaEncryptionApi/Service/.rnd
